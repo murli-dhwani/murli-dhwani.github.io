@@ -39,6 +39,8 @@ Prajapita Brahma became avyakt (left the body), and hence Shiv baba (God), along
 * Murlis are `unfiltered` and `unadulterated` teachings of the superior soul with `his energy`. So by reading murli daily, we can `experience God's Consciousness`.
 * The advantage of listening to it in a gathering of `like-minded` and interested people is the `powerful vibrations` that will benefit anyone who `diligently studies` and `implements` the teachings in their daily lives.
 
+![Image](https://github.com/murli-dhwani/murli-dhwani.github.io/blob/master/assets/img/murli.png)
+
 
 # Murli Dhwani
 
