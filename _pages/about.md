@@ -14,9 +14,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-[Murli](https://www.shivbabas.org/what-is-murli) is the recorded teachings spoken by the incorporeal supreme soul through his corporeal medium. These are the sweetest words of true raw knowledge. Murli is the link of the soul with the Supreme Soul. Murli gives us an understanding of God’s reality. Not just an understanding but a real experience of it. The knowledge (in Hindi, it is called 'Gyan') is pronounced to us children by our spiritual father (god) through the medium of Prajapita Brahma.
-
-The Murli is a daily food for thought. It is mainly composed of spiritual churning, knowledge (Gyan), divine values, and our story of the world cycle, which inspires us on how to think, live, transform ourselves from within, and serve the world. It is not chanting, repeating, or learning by rote, but is a realization, an experience of this godly knowledge, and bringing the shrimat (God's elevated advice) in our day-to-day life.
+[Murli](https://www.shivbabas.org/what-is-murli) is the recorded teachings spoken by the incorporeal supreme soul through his corporeal medium. Murli gives us an understanding of God’s reality. Not just an understanding but a real experience of it. The Murli is a daily food for thought. It is mainly composed of spiritual churning, knowledge (Gyan), divine values, and our story of the world cycle, which inspires us on how to think, live, transform ourselves from within, and serve the world. It is not chanting, repeating, or learning by rote, but is a realization, an experience of this godly knowledge, and bringing the shrimat (God's elevated advice) in our day-to-day life.
 
 # Types of Murli
 Murlis are basically of 2 types: **Sakar Murli** and **Avyakt Murli**
