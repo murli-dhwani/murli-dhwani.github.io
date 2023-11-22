@@ -18,6 +18,8 @@ social: true  # includes social icons at the bottom of the page
 
 It is mainly composed of `spiritual churning`, `knowledge (Gyan)`, `divine values`, and our `story of the world cycle`, which inspires us on how to `think`, `live`, `transform ourselves from within`, and `serve the world`. It is not chanting, repeating, or learning by rote, but is a `realization`, an experience of this godly knowledge, and bringing the **shrimat (God's elevated advice) in our day-to-day life**.
 
+Merely listening to the words alone, trying to find a stimulus for the intellect, will not create an experience. We have to do something very specific with those words to change them into an experience. It has to be used as a springboard into a different state of consciousness.
+
 ---
 
 # Types of Murli
@@ -30,7 +32,7 @@ Murlis are basically of 2 types: `Sakar Murli` and `Avyakt Murli`
 
 ## Avyakt Murli
 
-Prajapita Brahma became avyakt (left the body), and hence Shiv baba (God), along with Brahma's soul, will now enter in one corporeal medium to speak Murli or knowledge. The part was changed in January 1969. [Avyakt Murli](https://www.shivbabas.org/avyakt-bapdada-murli) are the versions spoken from `1969 till 2015` through the medium of `Dadi Gulzar`. Older Avyakt Murlis are gems of raw knowledge of the `human world`, `human nature`, and the entire `creation (universe)`. **They impart practical knowledge on applying gyan every day**.
+[Avyakt Murli](https://www.shivbabas.org/avyakt-bapdada-murli) are the versions spoken from `1969 till 2015` through the medium of `Dadi Gulzar`. Older Avyakt Murlis are gems of raw knowledge of the `human world`, `human nature`, and the entire `creation (universe)`. **They impart practical knowledge on applying gyan every day**.
 
 ---
 
@@ -46,6 +48,6 @@ Prajapita Brahma became avyakt (left the body), and hence Shiv baba (God), along
 
 # Murli Dhwani
 
-**_Murli Dhwani_** is a community of `like-minded individuals` who wish to study the `wisdom` from daily Murli. Our members are across `all age ranges` and beyond `geographical distances`! Our fundamental drive is `World transform through self transformation`, a nation through Self Transformation, and contributes to the growth of others, too. We listen to and `read Murli` together, `discuss individual learnings` and questions, `churn on the content`, and discuss its application in daily life situations. We basically rehearse to follow Srimath in any situation in life and overcome it without being emotionally and mentally disturbed and make amazing friends and connections with `Supreme Soul` along the way!
+**Murli Dhwani** is a community of `like-minded individuals` who wish to study the `wisdom` from daily Murli. Our members are across `all age ranges` and beyond `geographical distances`! Our fundamental drive is `World transform through self transformation`, a nation through Self Transformation, and contributes to the growth of others, too. We listen to and `read Murli` together, `discuss individual learnings` and questions, `churn on the content`, and discuss its application in daily life situations. We basically rehearse to follow Srimath in any situation in life and overcome it without being emotionally and mentally disturbed and make amazing friends and connections with `Supreme Soul` along the way!
 
 There are no charges. This community is our humble service to society, and we intend to keep it that way. If you’re even slightly interested, please join us! We’d be happy to have you along!
