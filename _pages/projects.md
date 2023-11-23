@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Avyakt
+title: Avyakt Murlis
 permalink: /Avyakt/
 description: Description of Avyakt Murlis.
 nav: true
