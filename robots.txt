@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://murli-dhvani.github.io/sitemap.xml
+Sitemap: https://murli.github.io/sitemap.xml
